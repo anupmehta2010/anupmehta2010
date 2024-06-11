@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupmehta2010&label=Profile%20views&color=0e75b6&style=flat" alt="anupmehta2010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupmehta2010" alt="anupmehta2010" /></a> </p>
-
 - 🔭 I’m currently working on **creating my own powerful pvt GPT.**
 
 - 🌱 I’m currently learning **pyhon, c++ and cloud computing**
