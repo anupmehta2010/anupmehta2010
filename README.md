@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating my own powerful pvt GPT**
 
-- 🌱 I’m currently learning **pyhon, c++ and cloud computing concepts**
+- 🌱 I’m currently learning **python, c++ and cloud computing concepts**
 
 - 👯 I’m looking to collaborate on **projects which deal with AIML,automation,software tech**
 
